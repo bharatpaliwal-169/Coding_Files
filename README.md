@@ -1,4 +1,2 @@
 # Hydra_py
-python based programs
-just for basics 
-competitive coding 
+Python is most appreciated here, always seeking for simple and efficient codes.
